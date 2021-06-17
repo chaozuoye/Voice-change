@@ -1,0 +1,6 @@
+﻿  common.cpp
+  common_platform.cpp
+  record.cpp
+  正在生成代码...
+common.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  MyProject.vcxproj -> D:\Program Files\大学\大二\下\多媒体技术与应用\大作业\fmod\apiAndcore\FMOD Studio API Windows\api\core\MyProject\_builds\MyProject\Debug\Win32\MyProject.exe

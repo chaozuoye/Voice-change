@@ -1,0 +1,6 @@
+﻿  record.cpp
+D:\Program Files\大学\大二\下\多媒体技术与应用\大作业\fmod\apiAndcore\FMOD Studio API Windows\api\core\MyProject\MyProject\record.cpp(151,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\Program Files\大学\大二\下\多媒体技术与应用\大作业\fmod\apiAndcore\FMOD Studio API Windows\api\core\MyProject\MyProject\record.cpp(165,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\Program Files\大学\大二\下\多媒体技术与应用\大作业\fmod\apiAndcore\FMOD Studio API Windows\api\core\MyProject\MyProject\record.cpp(219,62): warning C4305: “参数”: 从“double”到“float”截断
+common.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  MyProject.vcxproj -> D:\Program Files\大学\大二\下\多媒体技术与应用\大作业\fmod\apiAndcore\FMOD Studio API Windows\api\core\MyProject\_builds\MyProject\Debug\x64\MyProject.exe
